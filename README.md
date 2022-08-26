@@ -26,7 +26,8 @@ mmuthuvel126@gmail.com,
 - you can see this website by using the this link- https://superb-croissant-be0beb.netlify.app/ 
 - Some screenshots of this website:
  ![Screenshot 2022-07-15 212237](https://user-images.githubusercontent.com/106426051/179259746-7492aada-1e3e-4720-8ac8-a031a4d2866b.png)
-- Hospital Website- https://hopitalwebpage.netlify.app/
+- Hospital Website
+- Website Link- https://hopitalwebpage.netlify.app/
 ![webpage](https://user-images.githubusercontent.com/106426051/183296575-cf511710-3542-473a-b2c5-c40f005f344b.png)
 
 
