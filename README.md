@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thisismuthuvel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thisismuthuvel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muthuvel m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muthuvel m" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muthuvel-m1202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muthuvel m" height="30" width="40" /></a>
 <a href="https://fb.com/muthuvel m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muthuvel m" height="30" width="40" /></a>
 <a href="https://instagram.com/vel_mv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vel_mv" height="30" width="40" /></a>
 </p>
