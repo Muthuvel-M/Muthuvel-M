@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML CSS JS**
 
-- 👨‍💻 All of my projects are available at [[https://itsmuthuvel.vercel.app/)]([https://muthuvelportfolio.netlify.app](https://itsmuthuvel.vercel.app/))
+- 👨‍💻 All of my projects are available at https://itsmuthuvel.vercel.app/
 
 - 💬 Ask me about **tech releated**
 
